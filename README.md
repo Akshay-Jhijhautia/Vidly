@@ -1,0 +1,1 @@
+This project, resembles the backend of the imaginary movie renting website
